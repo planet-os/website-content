@@ -25,7 +25,7 @@ articles:
    date: (Sept 19, 2016)
    link: https://aws.amazon.com/blogs/publicsector/qa-with-planet-os-learn-about-the-opennex-climate-data-access-tool
  - article:
-   logo: https://s3.amazonaws.com/www.planetos.com/public/news/programmableweb_logo_250x80_%402x.png
+   logo: https://s3.amazonaws.com/www.planetos.com/public/news/programmablewweb_logo_250x80_%402x.png
    description: Does it make me as a developer feel welcome in Planet OS's developer community? You're damn right it does
    name: David Berlind, ProgrammableWeb
    date: (Sept 7, 2016)
