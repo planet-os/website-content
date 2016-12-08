@@ -7,7 +7,7 @@ articles:
    date: (Aug 24, 2016)
    link: https://www.greentechmedia.com/articles/read/7-Charts-That-Show-Wind-Power-is-Surging-in-the-US-and-Abroad
  - article: 
-   logo: https://s3.amazonaws.com/www.planetos.com/public/news/arctic_statup_logo_250x80_%402x.png
+   logo: https://s3.amazonaws.com/www.planetos.com/public/news/arctic_startup_logo_250x80_@2x.png
    description: Planet OS Signs Up German Utility RWE
    name: Tarmo Virki, Arcticstartup
    date: (Feb 8, 2016)
