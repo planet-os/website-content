@@ -61,7 +61,7 @@ articles:
    date: (Jun 20, 2016)
    link: http://gisuser.com/2016/06/planet-os-announces-powerboard-to-improve-wind-farm-performance
  - article:
-   logo: https://s3.amazonaws.com/www.planetos.com/public/news/estonianworld_logo_250x80_%402x.png
+   logo: https://s3.amazonaws.com/www.planetos.com/public/news/estonian_world_logo_250x80_%402x.png
    description: Energy giant RWE and Planet OS signed a strategic partnership agreement in California to build big data infrastructure for geospatial IoT
    name: Silver Tambur, Estonian World
    date: (Feb 8, 2016)
